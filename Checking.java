@@ -16,7 +16,7 @@ class Try {
 	}
 	
 }
-public class checking {
+public class Checking {
 	
 	public static void main(String[] args) {
 		Try t = new Try(2);
